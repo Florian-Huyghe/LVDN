@@ -17,5 +17,5 @@ new Typewriter(txtAnim, {
 .pauseFor(150)
 .typeString(' avec lesquels elle entretient des liens profonds et durables. <br><br>')
 .pauseFor(300)
-.typeString(' ( sources : <a href="https://www.lavoixdunord.fr/960858/article/2021-03-16/notre-histoire" target="_blank"> La voix du Nord : Notre histoire </a> )')
+.typeString(' ( source : <a href="https://www.lavoixdunord.fr/960858/article/2021-03-16/notre-histoire" target="_blank"> La voix du Nord : Notre histoire </a> )')
 .start();
