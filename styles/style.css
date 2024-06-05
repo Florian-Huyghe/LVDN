@@ -36,6 +36,7 @@ article {
     padding: 6px;
     font-size: 1.2rem;
     width: 75%;
+    min-height: 20vh;
     border-radius: 6px;
     background: #e0e0e0;
     box-shadow:  -41px 41px 82px #828282,
