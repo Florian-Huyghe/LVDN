@@ -8,18 +8,19 @@ body {
 
 header {
     position: sticky;
-    top: 0;
+    top: -30px;
     background-color: #333;
     color: white;
     padding: 1em 0;
     text-align: center;
     width: 100%;
+    min-height: 3vh;
     z-index: 2;
     border-bottom: 2px solid white;
 }
 
 header h1 img{
-    height: 50px;
+    height: 3rem;
 }
 
 header h1 span{
